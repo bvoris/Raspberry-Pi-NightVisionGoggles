@@ -1,4 +1,4 @@
-# Raspberry-Pi-NightVisionGoggles
+# Raspberry-Pi Night Vision Goggles
 Raspberry Pi Wireless Zero Night Vision Goggles
 With this project I decided to create some inexpensive night vision goggles with a Raspberry Pi Zero Wireless.<BR /><BR />
 
